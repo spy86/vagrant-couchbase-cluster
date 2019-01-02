@@ -1,4 +1,4 @@
-"# Couchbase Cluster" 
+#Couchbase Cluster
 =============================
 
 
