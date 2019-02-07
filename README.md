@@ -1,6 +1,6 @@
-#Couchbase Cluster
-=============================
+# Vagrantbox couchbase cluster
 
+[![Vagrant](https://img.shields.io/badge/vagrant-couchbase_cluster-orange.svg)]()
 
 #Prerequisites
 * Vagrant - https://releases.hashicorp.com/vagrant/2.0.0/vagrant_2.0.0_x86_64.msi
