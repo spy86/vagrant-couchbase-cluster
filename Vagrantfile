@@ -1,8 +1,3 @@
-################
-## Author: Maciej Michalski
-## Date: 12.12.2017
-## Version 1.0
-################
 Vagrant.configure("2") do |config|
 
     # Number of nodes to provision
